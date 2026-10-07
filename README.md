@@ -44,7 +44,7 @@ Docker, SQL e MongoDB.
 ## Formação e trajetória
 
 - Formação em Eletrônica pelo SENAI.
-- Engenharia da Computação na Universidade São Francisco — curso iniciado em 2020 e pausado em 2022.
+- Engenharia da Computação na Universidade São Francisco 
 - Formação em HTML, CSS e JavaScript; React; e desenvolvimento com IA pelo Full Stack Club.
 - Experiência com ensino voluntário, liderança e trabalho em equipe.
 
