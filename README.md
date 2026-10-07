@@ -55,13 +55,12 @@ Docker, SQL e MongoDB.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joviz&layout=compact&theme=tokyonight&hide_border=true"
     alt="Linguagens mais usadas nos repositórios de Giovane"
   />
-</p>
-
-<p>
   <a href="https://github.com/Joviz/camisa-pro-fc">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joviz&repo=camisa-pro-fc&theme=tokyonight&hide_border=true" alt="Cartão do repositório CamisaProFC">
   </a>
 </p>
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/giovane-oliveira-6a0331201/">Vamos conversar pelo LinkedIn</a>
