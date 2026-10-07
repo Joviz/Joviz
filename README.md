@@ -50,7 +50,12 @@ Docker, SQL e MongoDB.
 
 ## GitHub
 
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joviz&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Linguagens mais usadas nos repositórios de Giovane"
+  />
+</p>
 
 <p>
   <a href="https://github.com/Joviz/camisa-pro-fc">
