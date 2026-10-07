@@ -50,10 +50,7 @@ Docker, SQL e MongoDB.
 
 ## GitHub
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Joviz&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Giovane Oliveira">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joviz&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas nos repositórios de Giovane Oliveira">
-</p>
+
 
 <p>
   <a href="https://github.com/Joviz/camisa-pro-fc">
